@@ -10,7 +10,7 @@ Economist with 27 years experience developing new economic data sources, conduct
 <br />
 
 ### Competencies
-**Composition:** Technical Reports and Academic Papers  
+**Composition:** Technical Reports, Academic Papers  
 **Data Creation:** Big Data Processing, Bayesian Imputation  
 **Econometrics:** Fixed and Mixed-Effects Estimation, Total Error Measures, Noise Infusion, Differential Privacy  
 **Software:** BASH shell scripting, SAS, Stata, R, Julia, Fortran

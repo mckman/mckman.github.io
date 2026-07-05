@@ -7,4 +7,6 @@ layout: home
 
 <img src="/assets/kevin_square.jpg" alt="Description" style="width: 75%; height: auto;">
 
-* I am an Economist located in Los Angeles, CA. In my free time I enjoy hiking and everything automotive. Please see the About and CV pages for my professional skills, academic publications, and employment history.
+I am an Economist located in Los Angeles, CA. In my free time I enjoy hiking and everything automotive.
+Please see the About and CV pages for a brief summary of my professional skills and a list of my academic publications.
+My full Resume/CV is available [here](/assets/CV_KLM_20260704_NP.pdf).
