@@ -5,6 +5,6 @@
 layout: home
 ---
 
-<img src="/assets/kevin_square.jpg" alt="Description" style="width: 75%; height: auto;">
+![]({{'/assets/kevin_square.jpg' | relative_url}})
 
 * I am an Economist located in Los Angeles, CA. In my free time I enjoy hiking and everything automotive. Please see the About and CV pages for my professional skills, academic publications, and employment history.
