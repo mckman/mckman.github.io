@@ -10,7 +10,7 @@ layout: home
 I am an Economist located in Los Angeles, CA. In my free time I enjoy hiking and everything automotive.
 Please see the About and CV pages for a brief summary of my professional skills and a list of my academic publications.
 Links to Google Scholar and LinkedIn are at the bottom of the page.
-My full Resume/CV is available [here](/assets/CV_KLM_20260706_NP.pdf).
+My full resume/CV is available [here](/assets/CV_KLM_20260706_NP.pdf).
 
 <!---
 -->
